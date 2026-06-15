@@ -263,7 +263,7 @@ document.addEventListener('DOMContentLoaded', () => {
   /* ══════════════════════════════════════════
      8. ANIMATED STATISTICS COUNTERS (NEW)
   ══════════════════════════════════════════ */
-  const statsSection = document.getElementById('benefits');
+  const statsSection = document.querySelector('.stats-grid');
   const statNumbers = document.querySelectorAll('.stat-number');
   
   if (statsSection && statNumbers.length > 0) {
