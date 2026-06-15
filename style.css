@@ -353,7 +353,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   background-image: url('Fondo.jpeg');
   background-size: cover;
-  background-position: center;
+  background-position: top center;
   background-attachment: fixed;
   z-index: 1;
 }
