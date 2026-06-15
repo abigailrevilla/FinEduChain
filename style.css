@@ -591,6 +591,7 @@ h1, h2, h3, h4, h5, h6 {
 /* ─── CÓMO FUNCIONA ─── */
 #how-it-works {
   background: rgba(7, 10, 34, 0.3);
+   min-height: 100vh;
 }
 
 .process-grid {
@@ -718,6 +719,7 @@ h1, h2, h3, h4, h5, h6 {
 #benefits {
   background: rgba(3, 5, 18, 0.4);
   padding: 4rem 5%;
+   min-height: 100vh;
 }
 
 .benefits-container {
