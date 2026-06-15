@@ -303,7 +303,7 @@ document.addEventListener('DOMContentLoaded', () => {
         statsObserver.disconnect(); // stop observing
       }
     }, {
-      threshold: 0.3
+      threshold: 0.1
     });
 
     statsObserver.observe(statsSection);
